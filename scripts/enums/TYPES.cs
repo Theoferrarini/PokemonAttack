@@ -1,0 +1,21 @@
+public enum Types
+{
+    Insecte,
+    Dragon,
+    Fee,
+    Feu,
+    Spectre,
+    Sol,
+    Normal,
+    Psy,
+    Acier,
+    Ténèbres,
+    Electrique,
+    Combat,
+    Vol,
+    Plante,
+    Glace,
+    Poisson,
+    Roche,
+    Eau,
+}
